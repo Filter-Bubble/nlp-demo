@@ -1,2 +1,3 @@
 tensorflow==2.3.0
 git+https://github.com/Filter-Bubble/e2e-Dutch@master#egg=e2e-Dutch
+stanza
