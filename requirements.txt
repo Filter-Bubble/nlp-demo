@@ -1,3 +1,2 @@
 tensorflow==2.3.0
-git+https://github.com/Filter-Bubble/e2e-Dutch@e3a4272ae473f6e8be94a17f0b57d659b5d146a4#egg=e2e-Dutch
-# https://github.com/Filter-Bubble/e2e-Dutch/releases/download/v0.3.0/e2e_Dutch-0.3.0-py3-none-any.whl
+git+https://github.com/Filter-Bubble/e2e-Dutch@master#egg=e2e-Dutch
