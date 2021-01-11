@@ -1,0 +1,24 @@
+# sent_id = 0
+# text = Dit is een stukje tekst.
+1	Dit	dit	PRON	VNW|aanw|pron|stan|vol|3o|ev	Person=3|PronType=Dem	4	nsubj	_	start_char=0|end_char=3
+2	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	een	een	DET	LID|onbep|stan|agr	Definite=Ind	4	det	_	start_char=7|end_char=10
+4	stukje	stuk	NOUN	N|soort|ev|dim|onz|stan	Gender=Neut|Number=Sing	0	root	_	start_char=11|end_char=17
+5	tekst	tekst	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nmod	_	start_char=18|end_char=23
+6	.	.	PUNCT	LET	_	4	punct	_	start_char=23|end_char=24
+
+# sent_id = 1
+# text = Het dient als voorbeeld.
+1	Het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	2	nsubj	_	start_char=25|end_char=28
+2	dient	dienen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	start_char=29|end_char=34
+3	als	als	ADP	VZ|init	_	4	mark	_	start_char=35|end_char=38
+4	voorbeeld	voorbeeld	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	xcomp	_	start_char=39|end_char=48
+5	.	.	PUNCT	LET	_	2	punct	_	start_char=48|end_char=49
+
+# sent_id = 2
+# text = Ik heb het geschreven
+1	Ik	ik	PRON	VNW|pers|pron|nomin|vol|1|ev	Case=Nom|Person=1|PronType=Prs	4	nsubj	_	start_char=50|end_char=52
+2	heb	hebben	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=53|end_char=56
+3	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	4	obj	_	start_char=57|end_char=60
+4	geschreven	schrijven	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	_	start_char=61|end_char=71
+
