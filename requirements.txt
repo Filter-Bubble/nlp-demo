@@ -1,4 +1,4 @@
 tensorflow==2.3.0
-git+https://github.com/Filter-Bubble/e2e-Dutch@master#egg=e2e-Dutch
+e2e-Dutch>=0.4.0
 stanza
-git+https://github.com/Filter-Bubble/stroll@master#egg=stroll-jiskattema
+git+https://github.com/Filter-Bubble/stroll@master#egg=stroll-srl
