@@ -2,3 +2,4 @@ tensorflow==2.3.0
 e2e-Dutch>=0.4.0
 stanza
 git+https://github.com/Filter-Bubble/stroll@master#egg=stroll-srl
+spacy-udpipe
